@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/access-control.clar"
 depends_on = []
 
+[contracts.fuel-inventory]
+path = "contracts/fuel-inventory.clar"
+depends_on = []
+
 [contracts.fuel-token]
 path = "contracts/fuel-token.clar"
 depends_on = []
